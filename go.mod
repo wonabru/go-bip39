@@ -1,4 +1,4 @@
-module github.com/wonabru/go-bip39
+module github.com/wonabru/bip39
 
 go 1.15
 
